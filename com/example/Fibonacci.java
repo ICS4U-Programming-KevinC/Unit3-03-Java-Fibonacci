@@ -64,7 +64,7 @@ public final class Fibonacci {
    * Calculates the value of the fibonacci sequence at a specific position.
    *
    * @param num
-   * @return
+   * @return An int of the fibonacci sequence at that pos.
    */
   public static Integer recFib(final Integer num) {
     // Check for the first two base cases of 0 and 1, then return that value.
