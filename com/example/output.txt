@@ -1,0 +1,11 @@
+0
+1
+1
+2
+Please input a number!
+3
+5
+Please input a number!
+8
+13
+21
